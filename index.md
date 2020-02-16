@@ -19,7 +19,7 @@
   </style>
 </head>
 <body>
-<canvas width="1500" height="1000" id="game"></canvas>
+<canvas width="800" height="800" id="game"></canvas>
 <script>
 var canvas = document.getElementById('game');
 var context = canvas.getContext('2d');
