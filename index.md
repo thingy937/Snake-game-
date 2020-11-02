@@ -4,7 +4,7 @@
   <style>
   html, body {
     height: 100%;
-    margin: 0;
+    margin: 10;
   }
 
   body {
@@ -19,7 +19,7 @@
   </style>
 </head>
 <body>
-<canvas width="500" height="500" id="game"></canvas>
+<canvas width="800" height="800" id="game"></canvas>
 <script>
 var canvas = document.getElementById('game');
 var context = canvas.getContext('2d');
