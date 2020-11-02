@@ -14,7 +14,7 @@
     justify-content: center;
   }
   canvas {
-    border: 1px solid white;
+    border: 10px solid white;
   }
   </style>
 </head>
